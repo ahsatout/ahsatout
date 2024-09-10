@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdelhakim Satout</h1>
 <h3 align="center">A DevOps & Cloud enthousiast</h3>
-<a href="https://ibb.co/hFtQjL3"><img src="https://i.ibb.co/xqR90Xx/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f.gif" alt="68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f" border="0"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsatout&label=Profile%20views&color=0e75b6&style=flat" alt="ahsatout" /> </p>
 
 - 🌱 I’m currently learning **Kubernetes, Prometheus, Grafana**
