@@ -18,5 +18,4 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ahsatout&show_icons=true&locale=en&layout=compact" alt="ahsatout" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ahsatout&show_icons=true&locale=en" alt="ahsatout" /></p>
 <h3 align="center">Thanks for reviewing my account</h3>
