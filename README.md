@@ -4,6 +4,8 @@
 
 - 🌱 I’m currently learning **Terraform, Prometheus, Grafana**
 
+- 📄 You can view my resume [here](https://drive.google.com/file/d/1H4PLWbXqXfPPq5k3IRG6JzaIMA-GUsLO/view)
+
 - 📫 How to reach me **hakim.satout@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
