@@ -2,9 +2,7 @@
 <h3 align="center">A DevOps & Cloud enthousiast</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahsatout&label=Profile%20views&color=0e75b6&style=flat" alt="ahsatout" /> </p>
 
-- 🌱 I’m currently learning **Terraform, Prometheus, Grafana**
-
-- 📄 You can view my resume [here](https://drive.google.com/file/d/19I9gwOeEt9O4oFyqJr6z3kpOUBJRl2XM/view)
+- 🌱 I’m currently learning **Go, Azure, Octopus**
 
 - 📫 How to reach me **hakim.satout@gmail.com**
 
